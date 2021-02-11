@@ -1,0 +1,15 @@
+baseURL = "https://marketstationapartmentsnc.com"
+languageCode = "en-us"
+title = "Market Station Apartments Greensboro, NC"
+theme = "tricky-triangles"
+publishDir = "docs"
+
+[params]
+  description = "Welcome to Market Station Apartments, spacious apartments at an affordable price. Conveniently located with lots of Amenities."
+[params.property]
+  name = "Market Station Apartments"
+  phone = "336.294.0913"
+  email = "marketstationmgr@gmail.com"
+[params.property.address]
+  line1 = "5515 West Market St"
+  line2 = "Greensboro, NC 27409"
