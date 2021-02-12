@@ -1,15 +1,17 @@
 baseURL = "https://brothersaloof.com"
 languageCode = "en-us"
-title = "Market Station Apartments Greensboro, NC"
+title = "The Cliffs at Waterford Spring Lake, NC"
 theme = "tricky-triangles"
 publishDir = "docs"
 
 [params]
-  description = "Welcome to Market Station Apartments, spacious apartments at an affordable price. Conveniently located with lots of Amenities."
+  image = "images/TheCliffs.jpg"
+  description = "Welcome to The Cliffs at Waterford, more to come...."
 [params.property]
-  name = "Market Station Apartments"
-  phone = "336.294.0913"
-  email = "marketstationmgr@gmail.com"
+  name = "The Cliffs at Waterford"
+  phone = "910.339.0550"
+  email = "tbd@gmail.com"
 [params.property.address]
-  line1 = "5515 West Market St"
-  line2 = "Greensboro, NC 27409"
+  line1 = "859 Cliff Cir"
+  line2 = "Spring Lake, NC 28390"
+  mapURL = "https://www.google.com/maps/embed/v1/place?key=AIzaSyDU3vr9H2kUSnkmkvgWmxSNNl60NbV8U9Q&q=The%20Cliffs%20at%20Waterford%20Spring%20Lake%20NC&zoom=14"
