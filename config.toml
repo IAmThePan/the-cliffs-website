@@ -6,7 +6,7 @@ publishDir = "docs"
 
 [params]
   image = "images/TheCliffs.jpg"
-  description = "Welcome to The Cliffs at Waterford, more to come...."
+  description = "Welcome to The Cliffs at Waterford, luxury living, conveniently located, affordably priced"
 [params.property]
   name = "The Cliffs at Waterford"
   phone = "910.339.0550"

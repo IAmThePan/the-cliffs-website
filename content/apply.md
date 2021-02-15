@@ -6,13 +6,13 @@ menu:
     weight: 400
 ---
 
-### Apply below for available units at Market Station apartments:
+### Apply below for available units at The Cliffs at Waterford:
 
 {{< iframe src="https://crypticalstation.appfolio.com/listings?filters[property_list]=The%20Cliffs%20At%20Waterford" height="500px" width="100%" >}}
 
 ***
 
-### When applying to rent at Market Station Apartments please be prepared to provide:
+### When applying to rent at The Cliffs at Waterford please be prepared to provide:
 - Social Security Card
 - Driver's License or other Government Photo ID
 - Proof of Employment and your 2 most recent Paystubs

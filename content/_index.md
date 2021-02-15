@@ -7,23 +7,22 @@ menu:
     weight: 100
 ---
 
-{{< figure src="/images/TheCliffs.jpg" alt="Market Station Clubhouse" class="HomePage__BannerImage" >}}
+{{< figure src="/images/TheCliffs.jpg" alt="The Cliffs at Waterford" class="HomePage__BannerImage" >}}
 
 {{< button text="View Current Availability" theme="Dark" link="/apply/" >}}
 
-**Market Station Apartments -- Conveniently Located and Affordable**
+**The Cliffs at Waterford -- Conveniently Located and Affordable**
 
-At Market Station Apartments you will find a perfect blend of convenience,
-affordability and comfort.  If you ask our residents what they love about
-living here, they will tell you that Market Station offers great value: classic
-floor plans with plenty of storage at a terrific price. They will say that
-Market Station gives them easy access to shopping and is only minutes from
-I-40 and I-73 making it a short commute to work anywhere in the Triad area.
-Many of our residents appreciate living on the Greenboro Transit Bus Line
-with direct service to downtown. They also love the beautiful landscaping
-and elegant trees which provide lots of shade. So whether you’re looking
-for a studio, one-bedroom or two-bedroom apartment, stop by and check
-out everything Market Station has to offer. You’ll be glad you did.
+At The Cliffs, you will find a perfect blend of convenience, affordability and
+comfort. If you ask our residents what they love about living here, they will
+tell you that The Cliffs offers great value: classic floor plans with plenty of
+storage at a terrific price. They will say that The Cliffs is conveniently
+located adjacent to Fort Bragg and has easy access to the entire Fayetteville
+area. Many of our residents appreciate how clean the property is and how friendly
+and helpful the staff is. They also love the beautiful landscaping and ample open
+space for strolling or walking a pet. So whether your household needs a two-bedroom
+or three-bedroom apartment, stop by and check out everything The Cliffs has to
+offer. You’ll be glad you did.
 
 ***
 
