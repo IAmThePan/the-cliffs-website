@@ -711,7 +711,7 @@ footer {
   justify-content: space-between; }
 
 .MiniGallery__Item {
-  flex: 1 0 34%;
+  flex: 1 0 26%;
   margin: 0 0.5em 1em; }
 
 .MiniGallery__Input {
