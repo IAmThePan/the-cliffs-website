@@ -18,6 +18,6 @@ menu:
 Spring Lake is a great community, close to Fayetteville yet away from the traffic.
 The Cliffs is located right next to Fort Bragg, so if that’s your destination,
 you’re already almost there. And if it’s shopping you want, you’re never far away
-from the Px or any number of stores.
+from the Px, Super Walmart or any number of other stores.
 
 **Come by The Cliffs at Waterford and see everything we have to offer.**

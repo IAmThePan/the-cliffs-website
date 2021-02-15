@@ -18,7 +18,7 @@ menu:
 - **Laundry facilities** centrally located
 - **Leash-free bark park** for your furry friends
 - **Playground** for the children
-- **Limited Number of Garages**
+- **Limited Number of Storage Garages**
 - **Extra Storage available**
 
 ***
@@ -27,12 +27,9 @@ menu:
 - **2BR** – Our two-bedrooms have a split-bedroom floor plan to maximize comfort.
 - **3BR** – Our three-bedrooms are super spacious
 - **Bathrooms** – All of our bathrooms have wide vanities & lots of lighting.
-- **Full kitchens** – Our kitchens come with a complete appliance package –refrigerator,
-dishwasher & range - and with plenty of cabinet space.
-- **Living rooms** – Our living rooms have plush carpeting & large windows that bring in
-natural sunlight.
+- **Full kitchens** – Our kitchens come with a complete appliance package –refrigerator, dishwasher & range - and with plenty of cabinet space.
+- **Living rooms** – Our living rooms have plush carpeting & large windows that bring in natural sunlight.
 - **Balconies** – All of our apartments have spacious balconies
 - **Storage** – All of our apartments come with extra storage right outside the front door.
 - **9 Foot Ceilings** – Every room feels extra roomy because they have 9-foot ceilings
 - **Washer/Dryer Connections** – Each apartment has a laundry room right off the kitchen.
-- Do we have granite???
