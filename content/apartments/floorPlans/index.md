@@ -10,9 +10,9 @@ menu:
     weight: 100
 ---
 
-{{< miniGallery name="FloorPlanGallery" >}}
+{{< gallery isMini="true" captions="true" >}}
 
 Each residence at The Cliffs has its own front door for maximum privacy
 and convenience, so you will never have to walk down a long corridor.
 
-{{< button text="View Current Availability" theme="Dark" link="/apply/" >}}
+{{< button text="View Current Availability" class="Button--Primary Button--Solid" link="/apply/" >}}

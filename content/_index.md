@@ -7,9 +7,9 @@ menu:
     weight: 100
 ---
 
-{{< figure src="/images/TheCliffs.jpg" alt="The Cliffs at Waterford" class="HomePage__BannerImage" >}}
+{{< figure src="/images/TheCliffs.jpg" alt="The Cliffs at Waterford" class="FigureImage__Banner" >}}
 
-{{< button text="View Current Availability" theme="Dark" link="/apply/" >}}
+{{< button text="View Current Availability" class="Button--Primary Button--Solid" link="/apply/" >}}
 
 **The Cliffs at Waterford -- Conveniently Located and Affordable**
 

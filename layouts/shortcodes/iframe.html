@@ -1,0 +1,13 @@
+{{ $importCount := add 1 (or (.Page.Scratch.Get "Count--iFrame") 0) }}
+{{ .Page.Scratch.Set "Count--iFrame" $importCount }}
+
+{{ if eq $importCount 1 }}
+  <style>{{ (resources.Get "sass/shortcodes/iFrame.scss" | toCSS | minify ).Content | safeCSS }}</style>
+{{ end }}
+
+<iframe
+    src="{{ .Get "src" }}"
+    {{ with .Get "width" }}width="{{ . }}"{{ end }}
+    {{ with .Get "height" }}height="{{ . }}"{{ end }}
+    class="IFrame--AddBorder">
+</iframe>

@@ -1,0 +1,16 @@
+{{ $importCount := add 1 (or (.Page.Scratch.Get "Count--ContactInfo") 0) }}
+{{ .Page.Scratch.Set "Count--ContactInfo" $importCount }}
+
+{{ if eq $importCount 1 }}
+  <style>{{ (resources.Get "sass/shortcodes/contactInfo.scss" | toCSS | minify ).Content | safeCSS }}</style>
+{{ end }}
+
+<div class="ContactInfo">
+  {{ with .Site.Params.property.address.line1 }}<div>{{ . }}</div>{{ end }}
+  {{ with .Site.Params.property.address.line2 }}<div>{{ . }}</div>{{ end }}
+  {{ with .Site.Params.property.phone }}
+    <div>
+      <a class="ContactInfo--Normal" href="tel:{{ . }}">{{ . }}</a>
+    </div>
+  {{ end }}
+</div>
