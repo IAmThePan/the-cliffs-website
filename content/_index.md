@@ -13,16 +13,9 @@ menu:
 
 **The Cliffs at Waterford -- Conveniently Located and Affordable**
 
-At The Cliffs, you will find a perfect blend of convenience, affordability and
-comfort. If you ask our residents what they love about living here, they will
-tell you that The Cliffs offers great value: classic floor plans with plenty of
-storage at a terrific price. They will say that The Cliffs is conveniently
-located adjacent to Fort Bragg and has easy access to the entire Fayetteville
-area. Many of our residents appreciate how clean the property is and how friendly
-and helpful the staff is. They also love the beautiful landscaping and ample open
-space for strolling or walking a pet. So whether your household needs a two-bedroom
-or three-bedroom apartment, stop by and check out everything The Cliffs has to
-offer. You’ll be glad you did.
+{{< addClass class="text-justify">}}
+  At The Cliffs, you will find a perfect blend of convenience, affordability and comfort. If you ask our residents what they love about living here, they will tell you that The Cliffs offers great value: classic floor plans with plenty of storage at a terrific price. They will say that The Cliffs is conveniently located adjacent to Fort Bragg and has easy access to the entire Fayetteville area. Many of our residents appreciate how clean the property is and how friendly and helpful the staff is. They also love the beautiful landscaping and ample open space for strolling or walking a pet. So whether your household needs a two-bedroom or three-bedroom apartment, stop by and check out everything The Cliffs has to offer. You’ll be glad you did.
+{{</ addClass >}}
 
 ***
 
