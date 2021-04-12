@@ -20,4 +20,4 @@ and convenience, so you will never have to walk down a long corridor.
 ***
 
 #### Virtual Tour
-{{< iframe src="https://my.matterport.com/show/?model=wbXYoj6mtUL&play=1" height="500px" width="100%" >}}
+{{< iframe src="https://my.matterport.com/show/?model=wbXYoj6mtUL" height="500px" width="100%" >}}
