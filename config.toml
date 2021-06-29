@@ -10,7 +10,7 @@ publishDir = "docs"
 [params.property]
   name = "The Cliffs at Waterford"
   phone = "910.339.0550"
-  email = "thecliffsatwaterfordmgr@gmail.com"
+  email = "thecliffsatwaterford@gmail.com"
 [params.property.address]
   line1 = "859 Cliff Circle"
   line2 = "Spring Lake, NC 28390"
