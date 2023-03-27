@@ -21,7 +21,7 @@ My ToDos:
 - [ ] Make the mobile apartments menu open with a transition
 - [ ] Update / Verify site.webmanifest saves website correctly
 - [ ] Make a 404 page
-- [ ] Create separate repository for Theme, link into website repository
+- [x] Create separate repository for Theme, link into website repository
 - [ ] Choose a license for theme, update `theme.toml`
 - Gallery:
   - [ ] Scroll between gallery photos with a transition
