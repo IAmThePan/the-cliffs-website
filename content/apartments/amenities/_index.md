@@ -33,8 +33,3 @@ menu:
 - **Storage** – All of our apartments come with extra storage right outside the front door.
 - **9 Foot Ceilings** – Every room feels extra roomy because they have 9-foot ceilings
 - **Washer/Dryer Connections** – Each apartment has a laundry room right off the kitchen.
-
-***
-
-#### Virtual Tour
-{{< iframe src="https://my.matterport.com/show/?model=LNPwsvdYLte" height="500px" width="100%" >}}
