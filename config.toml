@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "The Cliffs at Waterford Spring Lake, NC"
 theme = "tricky-triangles"
 publishDir = "docs"
+googleAnalytics = "G-SRGKF48D5C"
 
 [params]
   image = "images/TheCliffs.jpg"
