@@ -8,7 +8,7 @@ menu:
 ---
 
 # Contact Us { class="text-center center-next" }
-*Our leasing office is open Monday - Friday, 9:00am to 5:30pm.*
+*Our leasing office is open Monday - Friday, 9:00am to 5:00pm.*
 
 ### By Phone: [{{< siteParams "property.phone" >}}](tel:{{< siteParams "property.phone" >}}) { class="text-left" }
 ### By Email: [{{< siteParams "property.email" >}}](mailto:{{< siteParams "property.email" >}}) { class="text-left" }
